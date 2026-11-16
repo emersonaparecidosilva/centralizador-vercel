@@ -1,0 +1,50 @@
+[
+  {
+    "categoria": "Projetos Academicos",
+    "icone": "server",
+    "itens": [
+      {
+        "nome": "Console AWS",
+        "descricao": "Gerenciamento de instâncias EC2, S3 e RDS",
+        "url": "https://console.aws.amazon.com",
+        "tag": "Produção"
+      },
+      {
+        "nome": "Vercel Dashboard",
+        "descricao": "Deploy e logs de aplicações serverless",
+        "url": "https://vercel.com",
+        "tag": "Deploy"
+      }
+    ]
+  },
+  {
+    "categoria": "Desenvolvimento & Dados",
+    "icone": "code",
+    "itens": [
+      {
+        "nome": "GitHub",
+        "descricao": "Repositórios de código e CI/CD",
+        "url": "https://github.com",
+        "tag": "Git"
+      },
+      {
+        "nome": "MongoDB Atlas",
+        "descricao": "Clusters de banco de dados NoSQL",
+        "url": "https://cloud.mongodb.com",
+        "tag": "Banco"
+      }
+    ]
+  },
+  {
+    "categoria": "Sistemas Internos",
+    "icone": "briefcase",
+    "itens": [
+      {
+        "nome": "Portal de Chamados",
+        "descricao": "Abertura e triagem de tickets de TI",
+        "url": "https://exemplo.com/chamados",
+        "tag": "Helpdesk"
+      }
+    ]
+  }
+]
