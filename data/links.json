@@ -1,49 +1,62 @@
 [
   {
-    "categoria": "Projetos Academicos",
+    "categoria": "Ferramentas do Dia a Dia",
     "icone": "server",
     "itens": [
       {
-        "nome": "Console AWS",
-        "descricao": "Gerenciamento de instâncias EC2, S3 e RDS",
-        "url": "https://console.aws.amazon.com",
-        "tag": "Produção"
+        "nome": "Bloco de Notas Online",
+        "descricao": "Anotações importantes",
+        "url": "https://padeas.vercel.app/",
+        "tag": "Utilitários"
       },
       {
-        "nome": "Vercel Dashboard",
-        "descricao": "Deploy e logs de aplicações serverless",
-        "url": "https://vercel.com",
-        "tag": "Deploy"
+        "nome": "Utilitários FieldService",
+        "descricao": "Principais ferramentas para o FieldService",
+        "url": "http://linktr.ee/easdown",
+        "tag": "Utilitários"
       }
     ]
   },
+  
   {
-    "categoria": "Desenvolvimento & Dados",
-    "icone": "code",
-    "itens": [
-      {
-        "nome": "GitHub",
-        "descricao": "Repositórios de código e CI/CD",
-        "url": "https://github.com",
-        "tag": "Git"
-      },
-      {
-        "nome": "MongoDB Atlas",
-        "descricao": "Clusters de banco de dados NoSQL",
-        "url": "https://cloud.mongodb.com",
-        "tag": "Banco"
-      }
-    ]
-  },
-  {
-    "categoria": "Sistemas Internos",
+    "categoria": "Projetos Acadêmicos",
     "icone": "briefcase",
     "itens": [
       {
-        "nome": "Portal de Chamados",
-        "descricao": "Abertura e triagem de tickets de TI",
-        "url": "https://exemplo.com/chamados",
-        "tag": "Helpdesk"
+        "nome": "Agent React",
+        "descricao": "Agente Clínico de Triagem Hospitalar",
+        "url": "https://agentreact.streamlit.app/",
+        "tag": "faculdade"
+      },
+      {
+        "nome": "Exercicios de Programação Python",
+        "descricao": "Curso de Python do Professor Guanabara",
+        "url": "https://exercicios-guanabara-python.streamlit.app/",
+        "tag": "faculdade"
+      },
+      {
+        "nome": "VAAR Nacional",
+        "descricao": "Projeto Integrador - Fatec 6°Sem de CD",
+        "url": "https://vaar-nacional-oficial.streamlit.app/",
+        "tag": "faculdade"
+      }
+    ]
+  },
+  {
+    "categoria": "Projetos Pessoais",
+    "icone": "code",
+    "itens": [
+      {
+        "nome": "A5 para A4 - Atalia Atelier",
+        "descricao": "Solução para impressão frente e verso de arquivos A5 em folhas A4",
+        "url": "https://atelieatalia.streamlit.app/",
+        "tag": "parcerias"
+      },
+      {
+        "nome": "Anotações Pessoais com MongoDB e Autenticação MFA",
+        "descricao": "Clusters de banco de dados NoSQL",
+        "url": "https://emersonaparecidosilva.streamlit.app/",
+        "tag": "NoSQL"
       }
     ]
   }
