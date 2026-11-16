@@ -4,7 +4,7 @@
     "icone": "server",
     "itens": [
       {
-        "nome": "Bloco de Notas Online",
+        "nome": "Bloco de Notas",
         "descricao": "Anotações importantes",
         "url": "https://padeas.vercel.app/",
         "tag": "Utilitários"
